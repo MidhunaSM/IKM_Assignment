@@ -1,0 +1,3 @@
+com\citizen\ikm\CitizenManagement.class
+com\citizen\controller\CitizenController.class
+com\citizen\model\CitizenDTO.class
